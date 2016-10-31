@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -176.676008 51.871897 96.61 180
+OBJECT_SHARED Models/Airport/tacan.xml -176.674121 51.871309 105.04 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -176.676008 51.871897 96.61 180
